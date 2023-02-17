@@ -1,0 +1,31 @@
+123
+'Test all, please!'
+[]
+[1]
+[1, 2, 3]
+3
+'one-two'
+Evaluation Error
+2
+-4
+7
+9
+Evaluation Error
+6
+0
+Evaluation Error
+1
+0
+1
+1
+0
+1
+1
+Parsing Error
+Evaluation Error
+'7'
+Evaluation Error
+Evaluation Error
+3
+7
+8
